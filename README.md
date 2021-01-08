@@ -1,4 +1,4 @@
-# algol-sorts
+# algo-sorts
 
 Jennifer Quay Minnich
 010/02/20

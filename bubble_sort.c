@@ -3,7 +3,7 @@
  * 
  * @file    bubble_sort.c
  * @brief   Algorithms: Sorting
- * @author  Group 1: Jennifer, Justin, Antonio
+ * @author  Group 1: Jennifer
  * @date    Sept 25, 2020
  */ 
 
